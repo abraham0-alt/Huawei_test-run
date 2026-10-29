@@ -1,0 +1,2 @@
+n_rows,n_events,unseen_user_events,unseen_user_rows,unseen_user_row_frac,unseen_item_events,unseen_item_rows,unseen_item_row_frac,empty_history_events,empty_history_rows,empty_history_row_frac
+529390,52939,1453,14530,0.02744668391922779,,0,0.0,665,6650,0.01256162753357638
